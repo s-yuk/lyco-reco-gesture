@@ -19,5 +19,6 @@ npm run dev
 
 # React
 cd frontend
+(npm iが多分いる)
 npm run dev
 ```
