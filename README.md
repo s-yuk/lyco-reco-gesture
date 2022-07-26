@@ -10,3 +10,14 @@ React
 バックエンド  
 Node.js  
 GraphQL
+
+## Usage
+``` 
+# GraphQLの確認
+cd backend
+npm run dev
+
+# React
+cd frontend
+npm run dev
+```
