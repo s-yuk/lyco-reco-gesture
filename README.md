@@ -1,24 +1,14 @@
-## lyco-reco-gesture
+## 概要
 Vite早くて最高ですわァ...
+
+Node.jsでGraphQLのAPIサーバー立ち上げ､Reactで表示
 
 
 ## 使用技術
 
-フロントエンド  
+### フロントエンド  
 React
 
-バックエンド  
+### バックエンド  
 Node.js  
 GraphQL
-
-## Usage
-``` 
-# GraphQLの確認
-cd backend
-npm run dev
-
-# React
-cd frontend
-(npm iが多分いる)
-npm run dev
-```
